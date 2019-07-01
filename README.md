@@ -1,4 +1,4 @@
-# Ananas AI Bot with DeepDetect
+# Mastodon Bot using DeepDetect prediction services
 
 Replay to follower toots using service predictions from DeepDetect server
 
