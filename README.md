@@ -2,6 +2,10 @@
 
 Replay to follower toots using service predictions from DeepDetect server
 
+![Example](https://raw.githubusercontent.com/alx/an_ai_bot/master/docs/screenshot.png)
+
+https://mastodon.tetaneutral.net/@ai_bot/102363212818441068
+
 ## Requirements
 
 - https://github.com/chr-1x/ananas
