@@ -1,0 +1,11 @@
+[ai_bot]
+class = custom.AiBot
+domain = mastodon.tetaneutral.net
+access_token = CHANGE_ME
+client_id = CHANGE_ME
+client_secret = CHANGE_ME
+account = ai_bot
+dd_host = localhost
+dd_port = 1912
+dd_path = /api/deepdetect
+dd_service_name = sent_en
